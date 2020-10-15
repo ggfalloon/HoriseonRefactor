@@ -1,6 +1,6 @@
 # HoriseonRefactor
 
-## Code Refactor Ticket: adjusted codebase that follows accessibility standards so the website is optimized for search engines.
+## Code Refactor Ticket: adjusted codebase to follow accessibility standards so the website is optimized for search engines.
 
 The Horiseon website codebase has been refactored to meet accessiblity standards with the proper semantic structure of the HTML and CSS elements. The code structure and styling has been improved to follow logical and sequential order as well as consolidation of code.
 

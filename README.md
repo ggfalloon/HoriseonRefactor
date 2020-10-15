@@ -21,12 +21,18 @@ CSS--
 
 ## Usage
 
+URL - https://ggfalloon.github.io/HoriseonRefactor/
+Use the navigation bar to toggle to the corresponding sections of the webpage.
+
+
+
 
 ## Credits
-W3Schools.com
-Moz.com
+* W3Schools.com
+* Moz.com
 
 ## License
+TBD
 
 
 

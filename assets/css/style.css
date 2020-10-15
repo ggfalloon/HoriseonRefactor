@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Renamed classes to follow semantic HTML structure using proper element titles*/
+/* Renamed header class to follow semantic HTML structure using proper element titles*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +24,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* nav class now correlates with its class */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -65,7 +65,7 @@ a {
     float: right;
     margin-left: 25px;
 }
-
+/* Added article tag here for proper semantics correlation */
 article {
     width: 75%;
     display: inline-block;
@@ -89,11 +89,11 @@ article {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Moved p tag to its proper sequential location */
 p {
     font-size: 16px;
 }
-
+/* Added aside and class to strealine the code */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +120,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Set footer element as its own class */
 footer {
     padding: 30px;
     clear: both;

@@ -24,6 +24,8 @@ CSS--
 URL - https://ggfalloon.github.io/HoriseonRefactor/  
 Use the navigation bar to toggle to the corresponding sections of the webpage.
 
+![Horiseon site](https://user-images.githubusercontent.com/71281652/96155704-db008780-0ed5-11eb-8e03-1ec995168536.png)
+
 
 ## Credits
 * W3Schools.com

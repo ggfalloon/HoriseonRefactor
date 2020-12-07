@@ -32,7 +32,7 @@ Use the navigation bar to toggle to the corresponding sections of the webpage.
 * Moz.com
 
 ## License
-TBD
+MIT - [MIT LICENSE](LICENSE)
 
 
 
